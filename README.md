@@ -1,5 +1,7 @@
 # Apna College CPP Course🔥
 
+<img src="https://github.com/kishanrajput23/Apna-College-CPP-Course/blob/main/C%2B%2B%20Course.jpg" alt="C++ Course">
+
 ## 📌Week 1
 
 | Content  | Tutorial Link |  Notes  |  Code  |
