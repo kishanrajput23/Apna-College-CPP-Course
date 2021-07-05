@@ -14,3 +14,11 @@
 | **🔸 3.1 Break and Continue**  | [Link](https://www.youtube.com/watch?v=Stf7KBiA1vs&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=7)  |  [3.1 Jumps in loops](https://github.com/kishanrajput23/Apna-College-CPP-Course/blob/main/Week%201/3.1%20Break%20and%20Continue/3.1%20Jumpsinloops.pdf)  |  [Code](https://github.com/kishanrajput23/Apna-College-CPP-Course/tree/main/Week%201/3.1%20Break%20and%20Continue)  |
 | **🔸 3.2 Switch Case Statement**  | [Link](https://www.youtube.com/watch?v=G80-j_xnE_8&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=8)  |  [3.2 Switch Case Statement](https://github.com/kishanrajput23/Apna-College-CPP-Course/blob/main/Week%201/3.2%20Switch%20Case%20Statement/3.2%20Switch-Case%20statement.pdf)  |  [Code](https://github.com/kishanrajput23/Apna-College-CPP-Course/tree/main/Week%201/3.2%20Switch%20Case%20Statement)  |
 | **🔸 3.3 Operators in C++**  | [Link](https://www.youtube.com/watch?v=JBgZxnAj4hg&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=9)  |  [3.3 Operators](https://github.com/kishanrajput23/Apna-College-CPP-Course/blob/main/Week%201/3.3%20Operators%20in%20C%2B%2B/3.3%20Operators.pdf)  |  [Code](https://github.com/kishanrajput23/Apna-College-CPP-Course/tree/main/Week%201/3.3%20Operators%20in%20C%2B%2B)  |
+
+
+## 📌Week 2
+
+| Content  | Tutorial Link |  Notes  |  Code  |
+| :------- | :-----------: | :-----: | :----: |
+| **🔸 4.1 Basic Pattern Questions**  | [Link](https://www.youtube.com/watch?v=LfgAOZ1kKMw&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=10)  |  -  |  [Code](https://github.com/kishanrajput23/Apna-College-CPP-Course/tree/main/week%202/4.1%20Basic%20Pattern%20Questions)  |
+| **🔸 4.2 Advanced Pattern Questions**  | [Link](https://www.youtube.com/watch?v=k9OlCJFy5yo&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=11)  |  [4.2 Pattern Questions](https://github.com/kishanrajput23/Apna-College-CPP-Course/blob/main/Week%201/2.1%20Data%20Types%20%26%20Type%20Modifiers/2.1%20Data%20Types%20Notes.pdf)  |  [Code](https://github.com/kishanrajput23/Apna-College-CPP-Course/tree/main/week%202/4.2%20Advanced%20Pattern%20Questions)  |
