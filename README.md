@@ -4,7 +4,7 @@
 
 ## 📌Week 1
 
-| Content  | Tutorial Link |  Notes  |  Code  |
+| Content  | Tutorial Link |  Notes / Practice Set  |  Code  |
 | :------- | :-----------: | :-----: | :----: |
 | **🔸 1.1 Introduction to C++**  | [Link](https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=1)  |  [1.1 Lecture Notes](https://github.com/kishanrajput23/Apna-College-CPP-Course/blob/main/Week%201/1.1%20Introduction%20to%20C%2B%2B/1.1%20Lecture%20Notes.pdf)  |  -  |
 | **🔸 2.1 Data Types & Type Modifiers**  | [Link](https://www.youtube.com/watch?v=cnT1oW5_ePM&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=3)  |  [2.1 Data Types Notes](https://github.com/kishanrajput23/Apna-College-CPP-Course/blob/main/Week%201/2.1%20Data%20Types%20%26%20Type%20Modifiers/2.1%20Data%20Types%20Notes.pdf)  |  -  |
@@ -18,9 +18,10 @@
 
 ## 📌Week 2
 
-| Content  | Tutorial Link |  Notes  |  Code  |
+| Content  | Tutorial Link |  Notes / Practice Set  |  Code  |
 | :------- | :-----------: | :-----: | :----: |
 | **🔸 4.1 Basic Pattern Questions**  | [Link](https://www.youtube.com/watch?v=LfgAOZ1kKMw&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=10)  |  -  |  [Code](https://github.com/kishanrajput23/Apna-College-CPP-Course/tree/main/week%202/4.1%20Basic%20Pattern%20Questions)  |
 | **🔸 4.2 Advanced Pattern Questions**  | [Link](https://www.youtube.com/watch?v=k9OlCJFy5yo&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=11)  |  [4.2 Pattern Questions](https://github.com/kishanrajput23/Apna-College-CPP-Course/blob/main/week%202/4.2%20Advanced%20Pattern%20Questions/4%20Pattern%20Questions.pdf)  |  [Code](https://github.com/kishanrajput23/Apna-College-CPP-Course/tree/main/week%202/4.2%20Advanced%20Pattern%20Questions)  |
 | **🔸 5.1 Binary Number System**  | [Link](https://www.youtube.com/watch?v=QIyugGzih4k&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=12)  |  [5.1 Binary Number System & Question Practice](https://github.com/kishanrajput23/Apna-College-CPP-Course/blob/main/week%202/5.1%20Binary%20Number%20System/5.1%20Binary%20Number%20System%20%26%20Question%20Practice.pdf)  |  [Code](https://github.com/kishanrajput23/Apna-College-CPP-Course/tree/main/week%202/5.1%20Binary%20Number%20System)  |
 | **🔸 5.2 Armstrong, Prime & Reversing Number**  | [Link](https://www.youtube.com/watch?v=6TzUHrAXytM&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=13)  |  [5.2 Prime, Armstrong, Reverse a number](https://github.com/kishanrajput23/Apna-College-CPP-Course/blob/main/week%202/5.2%20Armstrong%2C%20Prime%20%26%20Reversing%20Number/5.2%20Prime%2C%20Armstrong%2C%20Reverse%20a%20number.pdf)  |  [Code](https://github.com/kishanrajput23/Apna-College-CPP-Course/tree/main/week%202/5.2%20Armstrong%2C%20Prime%20%26%20Reversing%20Number)  |
+| **🔸 6.1 Functions**  | [Link](https://www.youtube.com/watch?v=83KtncYgHYQ&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=14)  |  [6.1 Functions](https://github.com/kishanrajput23/Apna-College-CPP-Course/blob/main/week%202/6.1%20Functions/6.1%20Functions.pdf)  |  [Code](https://github.com/kishanrajput23/Apna-College-CPP-Course/tree/main/week%202/6.1%20Functions)  |
