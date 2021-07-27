@@ -27,3 +27,10 @@
 | **🔸 6.1 Functions**  | [Link](https://www.youtube.com/watch?v=83KtncYgHYQ&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=14)  |  [6.1 Functions](https://github.com/kishanrajput23/Apna-College-CPP-Course/blob/main/week%202/6.1%20Functions/6.1%20Functions.pdf)  |  [Code](https://github.com/kishanrajput23/Apna-College-CPP-Course/tree/main/week%202/6.1%20Functions)  |
 | **🔸 6.2 Functions Challenges**  | [Link](https://www.youtube.com/watch?v=8vzk_JBKGcQ&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=15)  |  [6.2 Functions Challenges](https://github.com/kishanrajput23/Apna-College-CPP-Course/blob/main/week%202/6.2%20Functions%20Challenges/6.2%20Functions%20Problems.pdf)  |  [Code](https://github.com/kishanrajput23/Apna-College-CPP-Course/tree/main/week%202/6.2%20Functions%20Challenges)  |
 | **🔸 6.3 Advance Functions Questions**  | [Link](https://www.youtube.com/watch?v=lYnPK1svd-4&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=16)  |  [6.3 Advance Functions Questions](https://github.com/kishanrajput23/Apna-College-CPP-Course/blob/main/week%202/6.3%20Advance%20Functions%20Questions/6.3%20Practice(functions).pdf)  |  [Code](https://github.com/kishanrajput23/Apna-College-CPP-Course/tree/main/week%202/6.3%20Advance%20Functions%20Questions)  |
+
+
+## 📌Week 3
+
+| Content  | Tutorial Link |  Notes / Practice Set  |  Code  |
+| :------- | :-----------: | :-----: | :----: |
+| **🔸 7.1 Time Complexity**  | [Link](https://www.youtube.com/watch?v=rq_rwnveh8s&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=17)  |  [7.1 Time Complexity](https://github.com/kishanrajput23/Apna-College-CPP-Course/blob/main/Week%203/7.1%20Time%20Complexity/7.1%20Time%20Complexity.pdf)  |  -  |
