@@ -34,3 +34,4 @@
 | Content  | Tutorial Link |  Notes / Practice Set  |  Code  |
 | :------- | :-----------: | :-----: | :----: |
 | **🔸 7.1 Time Complexity**  | [Link](https://www.youtube.com/watch?v=rq_rwnveh8s&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=17)  |  [7.1 Time Complexity](https://github.com/kishanrajput23/Apna-College-CPP-Course/blob/main/Week%203/7.1%20Time%20Complexity/7.1%20Time%20Complexity.pdf)  |  -  |
+| **🔸 8.1 Introduction To Arrays**  | [Link](https://www.youtube.com/watch?v=PyTK_g1l8V8&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=18)  |  [8.1 Introduction To Arrays](https://github.com/kishanrajput23/Apna-College-CPP-Course/blob/main/Week%203/8.1%20Introduction%20To%20Arrays/8.1%20Arrays.pdf)  |  [Code](https://github.com/kishanrajput23/Apna-College-CPP-Course/tree/main/Week%203/8.1%20Introduction%20To%20Arrays)  |
